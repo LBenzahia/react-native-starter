@@ -1,0 +1,3 @@
+rootProject.name = 'scarletmobile'
+
+include ':app'
